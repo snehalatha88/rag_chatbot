@@ -4,5 +4,4 @@ sentence-transformers
 faiss-cpu
 numpy
 streamlit
-openai
 pypdf
